@@ -1,0 +1,7 @@
+.messages-container{
+    height: calc(100vh - 20rem);
+    width: 60%;
+    margin: 4rem auto;
+    flex-wrap: wrap;
+    overflow: auto;
+}
